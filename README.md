@@ -5,3 +5,4 @@
 * Reach the correct locker or die before it
 
 ## Footnotes
+This Game was created as a part of JS13KGames 2017
